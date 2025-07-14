@@ -2,6 +2,8 @@
 
 A pixel-perfect clone of Linear.app's homepage built with modern web technologies. This project recreates Linear's beautiful dark-themed landing page with all major sections and components.
 
+Web site design inspired by <a href="https://linear.app">linear.app</a>
+
 ![Linear Clone Preview](https://via.placeholder.com/800x400/0a0a0a/ffffff?text=Linear+Clone)
 
 ## 🌟 Features
