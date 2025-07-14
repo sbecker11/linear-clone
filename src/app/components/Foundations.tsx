@@ -16,7 +16,7 @@ export default function Foundations() {
         </h2>
         
         <p className="text-lg text-gray-400 mb-16 max-w-3xl">
-          Linear is so simple to use, it's easy to overlook the wealth of complex technologies 
+          Linear is so simple to use, it&apos;s easy to overlook the wealth of complex technologies 
           packed under the hood that keep Linear robust, safe, and blazing fast.
         </p>
 

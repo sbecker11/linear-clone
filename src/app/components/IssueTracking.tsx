@@ -13,7 +13,7 @@ export default function IssueTracking() {
             </div>
             
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl mb-6">
-              Issue tracking you'll enjoy using
+              Issue tracking you&apos;ll enjoy using
             </h2>
             
             <p className="text-lg text-gray-400 mb-8">

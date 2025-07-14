@@ -18,7 +18,7 @@ export default function ProjectDirection() {
             
             <p className="text-lg text-gray-400 mb-8">
               Align your team around a unified product timeline. Plan, manage, and track all 
-              product initiatives with Linear's visual planning tools.
+              product initiatives with Linear&apos;s visual planning tools.
             </p>
 
             {/* Features */}

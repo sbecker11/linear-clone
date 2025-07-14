@@ -72,7 +72,7 @@ export default function AISection() {
                 </h3>
                 <p className="text-gray-400">
                   Linear uses the latest language models to power workflows from semantic search 
-                  to summarizing your team's project updates.
+                  to summarizing your team&apos;s project updates.
                 </p>
               </div>
             </div>
@@ -96,7 +96,7 @@ export default function AISection() {
                         <div className="text-xs text-gray-500 mt-1">
                           • SLOs have been defined for all services and products<br/>
                           • Implementation sprints are under way<br/>
-                          • We're at risk of missing our internal target date
+                          • We&apos;re at risk of missing our internal target date
                         </div>
                       </div>
                     </div>
